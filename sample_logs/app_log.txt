@@ -1,0 +1,7 @@
+INFO: Application started
+INFO: User login successful
+WARNING: CPU utilization high
+ERROR: Database connection timeout
+INFO: Retry attempt successful
+WARNING: Disk space reaching threshold
+ERROR: API endpoint unavailable
