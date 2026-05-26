@@ -27,7 +27,4 @@
 
 		## Background
 
-		Project created as part of transition from:
-		- Oracle DBA
-		- Cloud Application Administration
-		- toward Cloud Engineering / DBRE / SRE roles.
+		Project created as part of automation initiative to help with day to day redundant task:
